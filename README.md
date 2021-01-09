@@ -10,8 +10,13 @@ REQUIREMENTS FOR MAX USE
 FEATURES
 
 1-Lists Steam Profile Data
-  2-Lists the user's currently in game status and the game
+
+2-Lists the user's currently in game status and the game
+
 3-Lists steam level
+
 4-Lists steam last played games
+
 5-Lists steam profile name
+
 6-Lists steam comments
